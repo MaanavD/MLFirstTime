@@ -1,0 +1,3 @@
+- Used a sample sklearn dataset on breast cancer 
+- Trained using K-Nearest Neighbors to classify tumors based on tumor info
+- Classified data to define whether a tumor was benign or malignant to an accuracy of 92.8%
